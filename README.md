@@ -1,9 +1,7 @@
 # Waste-Out-of-Wealth
 An innovative emergency light prototype created using waste materials, promoting recycling, sustainability, and creative reuse of resources.
-# Waste Out of Wealth
 
 # Waste Out of Wealth
-
 ## Project Title
 **DIY Emergency Light Using Reused Materials**
 
